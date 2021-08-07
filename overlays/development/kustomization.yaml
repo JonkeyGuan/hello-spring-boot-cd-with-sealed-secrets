@@ -9,4 +9,3 @@ patches:
 - ./deployment-patches.yaml
 
 resources:
-- ./my-secret.yaml
