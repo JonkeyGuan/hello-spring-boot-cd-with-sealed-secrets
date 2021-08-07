@@ -7,5 +7,6 @@ bases:
 
 patches:
 - ./deployment-patches.yaml
-- ./my-secret.yaml
 
+resources:
+- ./my-secret.yaml
